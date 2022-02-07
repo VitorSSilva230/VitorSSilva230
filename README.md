@@ -1,4 +1,4 @@
-###      Olá! Eu sou o Vitor Santos 👋
+## Olá! Eu sou o Vitor Santos, fique a vontade 😊🚀
 
 <div align="left">
 <a href="https://github.com/VitorSSilva230">
@@ -15,7 +15,7 @@
   
 </div>
   
-  ##
+ ### Se conecta comigo 💌
  
 <div> 
   <a href="https://www.instagram.com/vitor_santos.23/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -27,4 +27,4 @@
 
 ### Mais sobre mim:
 Sou um grande amante da tecnologia e acredito que com ela eu posso tranformar o mundo.
-Hoje, meu maior hobbie é estudar programação, mas também amo jogos, a natureza e conhecer lugares novos.
+Hoje, meu maior hobbie é estudar programação ⌨️, mas também amo jogos 🎮, a natureza 🍃 e conhecer lugares novos.

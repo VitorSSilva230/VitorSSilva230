@@ -28,3 +28,5 @@
 ### Mais sobre mim:
 Sou um grande amante da tecnologia e acredito que com ela eu posso tranformar o mundo.
 Hoje, meu maior hobbie é estudar programação ⌨️, mas também amo jogos 🎮, a natureza 🍃 e conhecer lugares novos.
+  
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/VitorSSilva230/count.svg" /></p>
